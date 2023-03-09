@@ -1,0 +1,24 @@
+template:
+  bootstrap: 5
+  includes:
+    in_header: |
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZ471458FQ"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-XZ471458FQ');
+      </script>
+
+
+home:
+  sidebar:
+    structure: [links, license, coc, community, citation, authors, dev]
+    components:
+      coc:
+        title: Code of Conduct
+        text: |
+          - [Código de Conducta](https://docs.google.com/document/d/e/2PACX-1vSi9qlNRvh6nSSlHEcM8mpB9XQHDQyo2I12VG--r5SwciJ5UdRzhUp3sYXJhXoyYg/pub)
+          - [Code of Conduct](https://docs.google.com/document/u/1/d/e/2PACX-1vRcwl2uaKdEQT5iS-9MroDMKsd81oR8v1gdlY1kHTTjgGEbLKfcWxtdrkvVRhJJGQalsgC1A4K4YiDe/pub)
