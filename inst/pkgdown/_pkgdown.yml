@@ -13,9 +13,8 @@ template:
         gtag('config', 'G-XZ471458FQ');
       </script>
   bslib:
-    base_font: {google: "DM Sans"}
-    code_font: {google: "Roboto Mono"}
-
+    base_font: "DM Sans"
+    code_font: "Roboto Mono"
 
 home:
   sidebar:
