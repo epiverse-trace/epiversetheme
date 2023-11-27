@@ -15,6 +15,9 @@ template:
     base_font: "DM Sans"
     code_font: "Roboto Mono"
 
+navbar:
+  bg: dark
+
 home:
   sidebar:
     structure: [links, license, coc, community, citation, authors, dev]
