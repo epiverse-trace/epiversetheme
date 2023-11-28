@@ -15,7 +15,7 @@ You can install the development version of epiversetheme from
 
 ``` r
 # install.packages("pak")
-pak::install_github("epiverse-trace/epiversetheme")
+pak::pak("epiverse-trace/epiversetheme")
 ```
 
 ## Example & tests
