@@ -1,8 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.0.7
-pkgdown_sha: ~
+pkgdown: 2.0.9.9000
+pkgdown_sha: 64560974d3b5cf7691dc05b585a1d18f6837a9d1
 articles: {}
-last_built: 2024-03-20T16:33Z
+last_built: 2024-04-22T08:39Z
 urls:
   reference: https://epiverse-trace.github.io/epiversetheme/reference
   article: https://epiverse-trace.github.io/epiversetheme/articles
