@@ -14,6 +14,7 @@ template:
   bslib:
     base_font: "DM Sans"
     code_font: "Roboto Mono"
+    danger: "#F04A4C"
 
 navbar:
   bg: dark
