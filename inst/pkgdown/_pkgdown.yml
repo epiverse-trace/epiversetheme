@@ -18,6 +18,13 @@ template:
 navbar:
   bg: dark
 
+figures:
+  fig.retina: 1 # required by the showtext package
+  fig.width: 8
+  fig.height: 6
+  other.parameters:
+    fig.showtext: true
+
 home:
   sidebar:
     structure: [links, license, coc, community, citation, authors, dev]
