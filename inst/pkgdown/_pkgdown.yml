@@ -1,7 +1,7 @@
 template:
   bootstrap: 5
   includes:
-    before_title: '<a href="https://epiverse-trace.github.io/"><img src="https://epiverse-trace.github.io/site_libs/bootstrap/logo_white.svg" id="logo" alt="Epiverse-TRACE"></a>'
+    before_title: '<a href="https://epiverse-trace.github.io/"><img src="https://epiverse-trace.github.io/blueprints/logo_white.svg" id="logo" alt="Epiverse-TRACE"></a>'
     in_header: |
       <!-- Google tag (gtag.js) -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZ471458FQ"></script>
