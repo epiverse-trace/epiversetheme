@@ -6,7 +6,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-4094-1476"))
 Description: What the package does (one paragraph).
 Imports:
-    pkgdown (>= 2.0.8.9000)
+    pkgdown (>= 2.0.9.9000)
 Remotes:
     r-lib/pkgdown
 License: MIT
