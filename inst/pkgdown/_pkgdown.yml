@@ -18,9 +18,6 @@ template:
     danger: "#F04A4C"
   light-switch: true
 
-navbar:
-  bg: dark
-
 figures:
 #  fig.retina: 1 # required by the showtext package
   fig.width: 8
