@@ -16,6 +16,7 @@ template:
     base_font: "DM Sans"
     code_font: "Roboto Mono"
     danger: "#F04A4C"
+  light-switch: true
 
 navbar:
   bg: dark
