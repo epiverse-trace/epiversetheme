@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package is a the Epiverse-TRACE organization pkgdown template.
+This package is the Epiverse-TRACE organization pkgdown template.
 
 ## Installation
 
