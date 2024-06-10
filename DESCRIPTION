@@ -6,9 +6,11 @@ Authors@R:
            comment = c(ORCID = "0000-0002-4094-1476"))
 Description: What the package does (one paragraph).
 Imports:
-    pkgdown (>= 2.0.9.9000)
+    pkgdown (>= 2.0.9.9000),
+    evaluate (> 0.23.0.9000)
 Remotes:
-    r-lib/pkgdown
+    r-lib/pkgdown,
+    r-lib/evaluate
 License: MIT
 Config/testthat/edition: 3
 Encoding: UTF-8
