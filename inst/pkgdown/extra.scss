@@ -35,3 +35,8 @@
   margin-right: 15px;
   display: inline;
 }
+
+// Patch for https://github.com/rstudio/DT/issues/1144
+div.datatables {
+  color: inherit !important;
+}
