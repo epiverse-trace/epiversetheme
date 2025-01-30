@@ -13,6 +13,7 @@ template:
         gtag('config', 'G-XZ471458FQ');
       </script>
   bslib:
+    navbar-bg: "#071E2D"
     base_font: "DM Sans"
     code_font: "Roboto Mono"
     danger: "#F04A4C"
