@@ -35,3 +35,10 @@ home:
           [Código de Conducta](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT_es.md)
 
           [Code of Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT_en.md)
+
+
+footer:
+  structure:
+    right: [built_with, themed_with]
+  components:
+    themed_with: Theme provided by [epiversetheme](https://github.com/epiverse-trace/epiversetheme) {{ version }}.

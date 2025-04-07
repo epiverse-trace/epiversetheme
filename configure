@@ -1,0 +1,5 @@
+#!/bin/sh
+
+VERSION=$(sed -En 's/Version: (.*)/\1/p' DESCRIPTION)
+
+sed -i "s/{{ version }}/$VERSION/g" inst/pkgdown/_pkgdown.yml
